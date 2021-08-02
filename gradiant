@@ -1,0 +1,66 @@
+#!/bin/bash
+clear
+#
+echo "                                                                         #"
+#
+for i in {0..5} {5..0} ;
+ do
+  echo -en "\e[38;5;${i}m000005\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {6..11} {11..6} ;
+ do
+  echo -en "\e[38;5;${i}m006011\e[0m" ;
+ done
+#
+echo " #"
+#
+for c in {12..17} {17..12} ;
+ do
+  echo -en "\e[38;5;${c}m012017\e[0m" ;
+ done
+#
+echo " #"
+#
+for c in {18..23} {23..18} ;
+ do
+  echo -en "\e[38;5;${c}m018023\e[0m" ;
+ done
+#
+echo " #"
+#
+for c in {24..29} {29..24} ;
+ do
+  echo -en "\e[38;5;${c}m024029\e[0m" ;
+ done
+#
+echo " #"
+#
+for c in {30..35} {35..30} ;
+ do
+  echo -en "\e[38;5;${c}m030035\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {36..41} {41..36} ;
+ do
+  echo -en "\e[38;5;${i}m036041\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {42..47} {47..42} ;
+ do
+  echo -en "\e[38;5;${i}m042047\e[0m" ;
+ done
+#
+echo " #"
+#
+for c in {47..255} ;
+ do
+  echo -en "\e[38;5;${c}m047255\e[0m" ;
+ done
+#
