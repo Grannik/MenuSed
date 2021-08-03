@@ -17,16 +17,16 @@ for i in {6..11} {11..6} ;
 #
 echo " #"
 #
-for c in {12..17} {17..12} ;
+for i in {12..17} {17..12} ;
  do
-  echo -en "\e[38;5;${c}m012017\e[0m" ;
+  echo -en "\e[38;5;${i}m012017\e[0m" ;
  done
 #
 echo " #"
 #
-for c in {18..23} {23..18} ;
+for i in {18..23} {23..18} ;
  do
-  echo -en "\e[38;5;${c}m018023\e[0m" ;
+  echo -en "\e[38;5;${i}m018023\e[0m" ;
  done
 #
 echo " #"
@@ -59,8 +59,248 @@ for i in {42..47} {47..42} ;
 #
 echo " #"
 #
-for c in {47..255} ;
+for i in {48..53} {53..48} ;
  do
-  echo -en "\e[38;5;${c}m047255\e[0m" ;
+  echo -en "\e[38;5;${i}m048053\e[0m" ;
  done
+#
+echo " #"
+#
+for i in {54..59} {59..54} ;
+ do
+  echo -en "\e[38;5;${i}m054059\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {60..65} {65..60} ;
+ do
+  echo -en "\e[38;5;${i}m060065\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {66..71} {71..66} ;
+ do
+  echo -en "\e[38;5;${i}m066071\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {72..77} {77..72} ;
+ do
+  echo -en "\e[38;5;${i}m072077\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {78..83} {83..78} ;
+ do
+  echo -en "\e[38;5;${i}m078083\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {84..89} {89..84} ;
+ do
+  echo -en "\e[38;5;${i}m084089\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {90..95} {95..90} ;
+ do
+  echo -en "\e[38;5;${i}m090095\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {96..101} {101..96} ;
+ do
+  echo -en "\e[38;5;${i}m096101\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {102..107} {107..102} ;
+ do
+  echo -en "\e[38;5;${i}m102107\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {108..113} {113..108} ;
+ do
+  echo -en "\e[38;5;${i}m108113\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {114..119} {119..114} ;
+ do
+  echo -en "\e[38;5;${i}m114119\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {120..125} {125..120} ;
+ do
+  echo -en "\e[38;5;${i}m120125\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {126..131} {131..126} ;
+ do
+  echo -en "\e[38;5;${i}m126131\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {132..137} {137..132} ;
+ do
+  echo -en "\e[38;5;${i}m132137\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {138..143} {143..138} ;
+ do
+  echo -en "\e[38;5;${i}m138143\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {144..149} {149..144} ;
+ do
+  echo -en "\e[38;5;${i}m144149\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {150..155} {155..150} ;
+ do
+  echo -en "\e[38;5;${i}m150155\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {156..161} {161..156} ;
+ do
+  echo -en "\e[38;5;${i}m156161\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {162..167} {167..162} ;
+ do
+  echo -en "\e[38;5;${i}m162167\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {168..173} {173..168} ;
+ do
+  echo -en "\e[38;5;${i}m168173\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {174..179} {179..174} ;
+ do
+  echo -en "\e[38;5;${i}m174179\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {180..185} {185..180} ;
+ do
+  echo -en "\e[38;5;${i}m180185\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {186..191} {191..186} ;
+ do
+  echo -en "\e[38;5;${i}m186191\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {192..197} {197..192} ;
+ do
+  echo -en "\e[38;5;${i}m192197\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {198..203} {203..198} ;
+ do
+  echo -en "\e[38;5;${i}m198203\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {204..209} {209..204} ;
+ do
+  echo -en "\e[38;5;${i}m204209\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {210..215} {215..210} ;
+ do
+  echo -en "\e[38;5;${i}m210215\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {216..221} {221..216} ;
+ do
+  echo -en "\e[38;5;${i}m216221\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {222..227} {227..222} ;
+ do
+  echo -en "\e[38;5;${i}m222227\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {228..233} {233..228} ;
+ do
+  echo -en "\e[38;5;${i}m228233\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {234..239} {239..234} ;
+ do
+  echo -en "\e[38;5;${i}m234239\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {240..245} {245..240} ;
+ do
+  echo -en "\e[38;5;${i}m240245\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {246..251} {251..246} ;
+ do
+  echo -en "\e[38;5;${i}m246251\e[0m" ;
+ done
+#
+echo " #"
+#
+for i in {252..255} ;
+ do
+  echo -en "\e[38;5;${i}m246255\e[0m" ;
+ done
+#
+echo " #"
 #
